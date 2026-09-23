@@ -1,0 +1,10 @@
+# Build
+/target
+
+# Runtime output
+/src/recordings/
+
+# Local user settings (auto-generated at startup)
+/src/config/user_settings.json
+
+*.log
